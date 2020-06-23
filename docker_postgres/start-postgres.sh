@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo docker start myswapi
+sudo docker start mypostgres
